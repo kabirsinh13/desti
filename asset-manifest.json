@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Desti/static/css/main.9906f9cb.chunk.css",
+    "main.js": "/Desti/static/js/main.c9edd2c7.chunk.js",
+    "main.js.map": "/Desti/static/js/main.c9edd2c7.chunk.js.map",
+    "runtime-main.js": "/Desti/static/js/runtime-main.973cf4ae.js",
+    "runtime-main.js.map": "/Desti/static/js/runtime-main.973cf4ae.js.map",
+    "static/js/2.ad120a0f.chunk.js": "/Desti/static/js/2.ad120a0f.chunk.js",
+    "static/js/2.ad120a0f.chunk.js.map": "/Desti/static/js/2.ad120a0f.chunk.js.map",
+    "static/js/3.a97f0caf.chunk.js": "/Desti/static/js/3.a97f0caf.chunk.js",
+    "static/js/3.a97f0caf.chunk.js.map": "/Desti/static/js/3.a97f0caf.chunk.js.map",
+    "index.html": "/Desti/index.html",
+    "static/css/main.9906f9cb.chunk.css.map": "/Desti/static/css/main.9906f9cb.chunk.css.map",
+    "static/js/2.ad120a0f.chunk.js.LICENSE.txt": "/Desti/static/js/2.ad120a0f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.973cf4ae.js",
+    "static/js/2.ad120a0f.chunk.js",
+    "static/css/main.9906f9cb.chunk.css",
+    "static/js/main.c9edd2c7.chunk.js"
+  ]
+}
